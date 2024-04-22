@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @nthpyrodev
+- 👋 Hi, I’m nthpyrodev
 - 👀 I’m interested in Cybersecurity, Building computers, coding frontend and Linux.
 - 🌱 I’m currently learning python, know HTML CSS PHP, some JS.
 - 💞️ I’m looking to collaborate on anything! Just send me a message!
-- 📫 How to reach me: Discord: nthpyrodev
+- 📫 How to reach me: Discord: nthpyrodev, or use the contact form on my website!
 - Website: https://nthpyro.dev
+- Tailwind CSS is too messy!
 
 <!---
 nthpyrodev/nthpyrodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
