@@ -1,8 +1,8 @@
 - 👋 Hi, I’m nthpyrodev
-- 👀 I’m interested in Cybersecurity, Building computers, coding frontend and Linux.
-- 🌱 I’m currently learning python, know HTML CSS PHP, some JS.
+- 👀 I’m interested in Cybersecurity, python, fullstack and Linux.
+- 🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, some JS.
 - 💞️ I’m looking to collaborate on anything! Just send me a message!
-- 📫 How to reach me: Discord: nthpyrodev, or use the contact form on my website!
+- 📫 How to reach me: Discord: nthpyrodev, or use the email on my website!
 - Website: https://nthpyro.dev
 - Tailwind CSS is too messy!
 
