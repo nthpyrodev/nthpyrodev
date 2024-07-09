@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m nthpyrodev<br>👀 I’m interested in Cybersecurity, python, fullstack and Linux.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python. I'm always learning a new language!<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me: Discord: nthpyrodev, or use the email on my website!<br>Tailwind CSS is too messy!</p>
+<p align="left">👋 Hi, I’m nthpyrodev<br>👀 I’m interested in Cybersecurity, python, fullstack and Linux.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python. I'm always learning a new language!<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me: Discord: nthpyrodev, or hi@nthpyro.dev<br>Tailwind CSS is too messy!</p>
 
 ###
 
