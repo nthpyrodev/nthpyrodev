@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m nthpyrodev<br>👀 I’m interested in Cybersecurity, Linux, and of course, developing websites.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python.<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me: Discord: nthpyrodev, or hi@nthpyro.dev</p>
+<p align="left">👋 Hi, I’m nthpyrodev<br>👀 I’m interested in Cybersecurity, Linux, and of course, developing websites.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python.<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me: Discord: nthpyrodev, Matrix: nthpyrodev@nthpyro.dev, or hi@nthpyro.dev. More contact methods available on my website.</p>
 
 ###
 
