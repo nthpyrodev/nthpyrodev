@@ -13,18 +13,18 @@ Open to collab on anything. PGP key can be found on my website, and [here](https
 
 ### Stuff I've worked on
 
-- Alloy-Installer  
-  Python-based installer for Alloy Linux  
+- Alloy-Installer<br>
+  Python-based installer for Alloy Linux<br>
   https://github.com/Alloy-Linux/Alloy-Installer
 
-- mkp224o-gui-frontend  
-  GUI wrapper for mkp224o (vanity Tor onion address generator)  
+- mkp224o-gui-frontend<br>
+  GUI wrapper for mkp224o (vanity Tor onion address generator)<br>
   https://github.com/nthpyrodev/mkp224o-gui-frontend
 
-- usb-killswitch  
-  Detects USB device changes and triggers actions
+- usb-killswitch<br>
+  Detects USB device changes and triggers actions<br>
   https://github.com/nthpyrodev/usb-killswitch
 
-- kyuncli  
-  CLI tool (mirrored from https://git.kyun.sh/nthpyrodev/kyuncli)  
+- kyuncli<br>
+  CLI tool (mirrored from https://git.kyun.sh/nthpyrodev/kyuncli)<br>
   https://github.com/nthpyrodev/kyuncli
